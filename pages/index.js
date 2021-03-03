@@ -12,6 +12,8 @@ export default function Home() {
       <main>
         <div className=""></div>
         <Articles></Articles>
+        <Articles></Articles>
+        <Articles></Articles>
       </main>
     </div>
   );
